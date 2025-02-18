@@ -1,14 +1,15 @@
 ---
 date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+title: 'Serverless Interior Decoration Consultation Backend (Azure Functions)'
+github: 'https://github.com/SHIVSB/Enterios-Serverless'
+external: ''
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
+  - Typescript
+  - Azure Functions
+  - Swagger
+  - MongoDB
+company: ''
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Built backend for Interior Decoration service using Azure function serverless.

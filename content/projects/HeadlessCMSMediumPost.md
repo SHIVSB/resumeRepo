@@ -1,15 +1,13 @@
 ---
 date: '2019-11-12'
-title: 'Building a Headless Mobile App CMS From Scratch'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+title: 'CLI Application to append alias to zshrc'
+github: 'https://github.com/SHIVSB/append_to_zshrc'
+external: ''
 tech:
-  - Node
-  - Express
-  - Firebase
-  - Vue
-company: 'Upstatement'
+  - Python
+  - Shell Scripting
+company: ''
 showInProjects: true
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+append_to_zshrc is a simple script that allows you to easily add custom alias to your .zshrc file
